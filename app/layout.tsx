@@ -2,7 +2,7 @@ import "./globals.css";
 import type { Metadata } from "next";
 import { Navbar, Footer } from "@/components";
 export const metadata: Metadata = {
-  title: "Just Cars",
+  title: "Car Hub",
   description: "Discover the best cars around you.",
 };
 
