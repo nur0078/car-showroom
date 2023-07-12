@@ -13,7 +13,7 @@ const CustomButton = ({
 }: CustomButtonProps) => {
   return (
     <button
-      disbaled={false}
+      // disbaled={false}
       type={btnType || "button"}
       className={`custom-btn ${containerStyles}`}
       onClick={handleClick}
