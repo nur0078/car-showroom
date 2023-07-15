@@ -21,7 +21,7 @@ const CarCard = ({ car }: CarCardProps) => {
   return (
     <div className="car-card group">
       <div className="car-card__content">
-        <h2 className="car-card_-content-title">
+        <h2 className="car-card__content-title">
           {make} {model}
         </h2>
       </div>
